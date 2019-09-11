@@ -1,4 +1,4 @@
-| ``` - diff SASS using by Node.js ``` |
+| diff SASS using by Node.js  |
 | ---------------- |
 
 ## How to work SASS with Node.js
@@ -33,7 +33,6 @@ or,
     "compile:sass": "node-sass sass/style.scss css/style.css -w"
   },
 npm run compile:sass (now when save scss always changing)
-
 
 
 
