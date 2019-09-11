@@ -1,4 +1,4 @@
-| # SASS using by Node.js |
+## | SASS using by Node.js |
 | ---------------- |
 
 ## How to work SASS with Node.js
