@@ -32,6 +32,7 @@ or,
 ### "scripts": {
     "compile:sass": "node-sass sass/style.scss css/style.css -w"
   },
+  
 npm run compile:sass (now when save scss always changing)
 
 
