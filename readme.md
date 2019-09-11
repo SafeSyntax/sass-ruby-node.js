@@ -40,10 +40,6 @@ npm run compile:sass (now when save scss always changing)
 
 
 
-
-
-
-
 |  SASS using by Ruby |
 | ---------------- |
 ## How to work SASS with Ruby
