@@ -1,4 +1,4 @@
-| diff SASS using by Node.js  |
+| **SASS using by Node.js**  |
 | ---------------- |
 
 ## How to work SASS with Node.js
@@ -39,8 +39,15 @@ npm run compile:sass (now when save scss always changing)
 
 
 
+----------------------------
 
-|  SASS using by Ruby |
+
+
+
+
+
+
+|  **SASS using by Ruby** |
 | ---------------- |
 ## How to work SASS with Ruby
 ### Download Ruby Installer from https://rubyinstaller.org/downloads/
